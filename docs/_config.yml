@@ -28,7 +28,7 @@ twitter_username: vers_laLune
 github_username:  vers_laLune
 
 # Build settings
-theme: minima
+theme: jekyll-theme-dinky
 plugins:
   - jekyll-feed
 
